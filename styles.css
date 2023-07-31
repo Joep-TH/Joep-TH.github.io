@@ -1,0 +1,60 @@
+#leftContainer {
+    background-color: aquamarine;
+    height: 400px;
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+}
+
+#rightContainer {
+    background-color: aquamarine;
+    height: 400px;
+    width: 48%;
+    float: right;
+    margin-right: 1%;
+}
+
+.containerTitle {
+    text-align: center;
+}
+
+.gegenereerdIdee {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.knopUitleg {
+    text-align: center;
+}
+
+#generateDateIdee {
+    width: 60%;
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#generateDateDiner {
+    width: 60%;
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+#wheelDecide1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wheelContainer1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
